@@ -1,2 +1,2 @@
 # CSE330-Numerical-Methods
-https://cse.sds.bracu.ac.bd/course/view/CSE330
+The course will help students to recognize the need for numerical analysis, and the importance of error analysis. They will learn various methods to linearize a polynomial, differentiate and integrate different functions by using approximations, and finally how to solve the linearized equation by using the laws of linear algebra, like Gaussian elimination, QR decomposition, etc.
